@@ -23,5 +23,6 @@ To build a strong foundation in Excel for data handling and insight extraction.
 
 ---
 
-🔗 [LinkedIn Post](https://lnkd.in/dVd8RYnz)
+🔗 [LinkedIn ]
+http://www.linkedin.com/in/
 
